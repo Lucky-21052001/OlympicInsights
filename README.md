@@ -6,3 +6,7 @@ Features -
 (2) Data Analysis: Perform analysis on the collected data to discover trends and patterns in the Olympics. 
 (3) Visualizations: Generate visual representations such as graphs and charts to better understand the data. 
 (4) Interactive Plots: Utilize Plotly for interactive data visualizations to engage users.
+
+
+*For Olympics till 2016 go to kaggle & download the dataset*
+ Link - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
